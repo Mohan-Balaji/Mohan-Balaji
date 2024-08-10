@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohan Balaji</h1>
 <h3 align="center">A passionate Full_Stack developer from India</h3>
 
-<iframe src="https://giphy.com/embed/EsqPY5S3ymA0xVC20s" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/art-digital-imposter-EsqPY5S3ymA0xVC20s">via GIPHY</a></p>
+<img align="right" alt="Coding" width="400" src="https://giphy.com/embed/EsqPY5S3ymA0xVC20s">
+
 - 🔭 I’m currently working on **E-commerce**
 
 - 🌱 I’m currently learning **ExpressJS, ThreeJS**
