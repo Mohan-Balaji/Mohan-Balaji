@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohan Balaji</h1>
 <h3 align="center">A passionate Full_Stack developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://giphy.com/embed/EsqPY5S3ymA0xVC20s">
+
 
 - 🔭 I’m currently working on **E-commerce**
 
