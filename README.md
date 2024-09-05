@@ -24,3 +24,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohan-balaji&show_icons=true&locale=en" alt="mohan-balaji" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohan-balaji&" alt="mohan-balaji" /></p>
+
+
+
+    __  ___      __                   ____              __        _ _ 
+   /  |/  /___  / /_  ____ _____     / __ )____ _____ _/ /___ _  (_|_)
+  / /|_/ / __ \/ __ \/ __ `/ __ \   / __  / __ `/ __ `/ / __ `/ / / / 
+ / /  / / /_/ / / / / /_/ / / / /  / /_/ / /_/ / /_/ / / /_/ / / / /  
+/_/  /_/\____/_/ /_/\__,_/_/ /_/  /_____/\__,_/\__,_/_/\__,_/_/ /_/   
+                                                           /___/    
