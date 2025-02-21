@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **E-commerce**
 
-- 🌱 I’m currently learning **ExpressJS, ThreeJS**
+- 🌱 I’m currently learning **DSA**
 
 - 💬 Ask me about **React,Tailwind CSS**
 
